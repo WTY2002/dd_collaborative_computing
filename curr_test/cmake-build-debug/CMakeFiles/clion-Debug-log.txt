@@ -1,0 +1,12 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /root/wty/xxxxx/tmp/tmp.lfmOM9qZiT -B /root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug
+-- The CXX compiler identification is GNU 11.4.0
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug

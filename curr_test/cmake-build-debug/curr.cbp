@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="curr"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="curr">
+				<Option output="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/curr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 curr"/>
+					<CompileFile command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="curr/fast">
+				<Option output="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/curr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 curr/fast"/>
+					<CompileFile command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j96 -f &quot;/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/include/PHE.cpp">
+			<Option target="curr"/>
+		</Unit>
+		<Unit filename="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/include/PHE.h">
+			<Option target="curr"/>
+		</Unit>
+		<Unit filename="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/include/SHE.cpp">
+			<Option target="curr"/>
+		</Unit>
+		<Unit filename="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/include/SHE.h">
+			<Option target="curr"/>
+		</Unit>
+		<Unit filename="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/test/main.cpp">
+			<Option target="curr"/>
+		</Unit>
+		<Unit filename="/root/wty/xxxxx/tmp/tmp.lfmOM9qZiT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
